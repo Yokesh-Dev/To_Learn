@@ -1,27 +1,5 @@
-<!-- 
-Online HTML, CSS and JavaScript editor to run code online.
--->
-<!DOCTYPE html>
-<html lang="en">
+# YouTube Videos
 
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <link rel="stylesheet" href="style.css" />
-  <title>Browser</title>
-</head>
-
-<body>
-  <h1>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/zJSY8tbf_ys?si=Bp020w2G6IXiO3QV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    
-    
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/5nUxK4QrUE4?si=OyW-bSDM8_egWK4B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/kAiX0itnonM?si=Tgl9_4FYjepLxKpI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    
-    
-  <script src="script.js"></script>
-</body>
-
-</html>
+[![JavaScript Tutorial](https://img.youtube.com/vi/zJSY8tbf_ys/0.jpg)](https://www.youtube.com/watch?v=zJSY8tbf_ys)
+[![React JS Crash Course](https://img.youtube.com/vi/5nUxK4QrUE4/0.jpg)](https://www.youtube.com/watch?v=5nUxK4QrUE4)
+[![Node.js Tutorial](https://img.youtube.com/vi/kAiX0itnonM/0.jpg)](https://www.youtube.com/watch?v=kAiX0itnonM)
